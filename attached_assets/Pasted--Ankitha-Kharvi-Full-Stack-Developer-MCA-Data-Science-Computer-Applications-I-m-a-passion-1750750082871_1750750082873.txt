@@ -1,0 +1,61 @@
+ Ankitha Kharvi – Full Stack Developer | MCA (Data Science & Computer Applications)
+🚀 I’m a passionate developer focused on building responsive, user-centric web applications using modern web technologies. With a strong academic background and real-world experience, I specialize in both frontend and backend development, from creating peer-to-peer platforms to data-driven dashboards.
+
+🧠 Technical Skills
+Languages: C++, SQL, HTML, CSS, JavaScript, React.js, Node.js
+
+Core Concepts: SDLC, REST APIs, Authentication (OTP/JWT), Responsive Design
+
+Developer Tools: VS Code, Git, GitHub, GitLab, MS Office, Power BI
+
+💼 Projects
+🔁 One Tap Share – Instant File & Folder Sharing App
+React.js + Node.js + Express
+
+Peer-to-peer file/folder sharing using QR codes, LAN, or email
+
+Features auto-expiry (24 hours) and one-time access keys
+
+Mobile-first design with secure local file storage
+
+🍽️ QuickBite AI – Ingredient to Recipe Chatbot
+React.js + Recipe API
+
+Conversational UI that suggests recipes based on available ingredients
+
+Includes nutritional info, difficulty filters, and grocery list generation
+
+Personalized recipe finder based on cuisine and meal type
+
+🧑‍💼 Internship Experience
+CodTech IT Solutions (June 2024 – July 2024)
+Built a responsive e-commerce website for an ice cream shop
+
+Technologies used: HTML, CSS, JavaScript, PHP, MySQL
+
+Implemented product listing, shopping cart, and image upload functionality
+
+Kasturba Hospital, Manipal (Jan 2025 – May 2025)
+🧾 FMS Dashboard: Created in Power BI with interactive filters, charts, and DAX KPIs for real-time hospital financial analytics
+
+🧪 KH Laboratory Services Portal: Developed a mobile-friendly React + Node.js web app for viewing services, contact info, and patient feedback, with an admin panel for uploading documents
+
+📱 KH Patient Portal: Built a mobile-based appointment system with:
+
+OTP login, family profile management, and doctor scheduling
+
+Department filtering, responsive UI, and integrated billing support
+
+📜 Certifications
+HTML, CSS, JavaScript – Johns Hopkins University
+
+IBM Full Stack Software Developer – Coursera
+
+Meta Front-End Developer – Coursera
+
+Google Advanced Data Analytics – Coursera
+
+Power BI – Microsoft
+
+🎓 Education
+MCA – Data Science & Computer Applications, Manipal Academy of Higher
