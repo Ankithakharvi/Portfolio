@@ -23,8 +23,7 @@
   --destructive-foreground: hsl(0, 0%, 98%);
   --ring: hsl(207, 90%, 54%);
   --radius: 0.5rem;
-  
-  /* Custom black theme colors */
+
   --dark: hsl(0, 0%, 0%);
   --dark-secondary: hsl(0, 0%, 10%);
   --dark-border: hsl(0, 0%, 20%);
@@ -73,27 +72,27 @@
   .bg-dark {
     background-color: var(--dark);
   }
-  
+
   .bg-dark-secondary {
     background-color: var(--dark-secondary);
   }
-  
+
   .border-dark-border {
     border-color: var(--dark-border);
   }
-  
+
   .text-accent-blue {
     color: var(--accent-blue);
   }
-  
+
   .bg-accent-blue {
     background-color: var(--accent-blue);
   }
-  
+
   .text-accent-green {
     color: var(--accent-green);
   }
-  
+
   .bg-accent-green {
     background-color: var(--accent-green);
   }
