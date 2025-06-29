@@ -132,7 +132,7 @@ export default function Hero() {
           </button>
 
           <a
-            href="/Ankitha_SDE.pdf"
+            href="/Ankithaa_SDE.pdf"
             download
             className="relative inline-flex items-center justify-center px-6 py-3 font-semibold tracking-wide text-white rounded-xl shadow-lg bg-gradient-to-r from-gray-700 via-gray-800 to-gray-900 hover:from-gray-600 hover:to-gray-800 transition-all duration-300 group"
           >
